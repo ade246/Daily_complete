@@ -1,6 +1,6 @@
 # Daily_complete
 # Khari Wallace
-# Commit One
+# Commit 1st
 6/8
 
 Use of function 1/2
